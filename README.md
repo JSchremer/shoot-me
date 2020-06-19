@@ -1,4 +1,5 @@
-<h1>ShootMe</h1>
+<h1>ShootMe</h1> [language](https://img.shields.io/badge/language-Ruby-red.svg) ![language](https://img.shields.io/badge/language-HTML-orange.svg) ![language](https://img.shields.io/badge/language-Javascript-yellow.svg) ![language](https://img.shields.io/badge/language-CSS-blueviolet.svg)
+
 
 Basic Ruby on Rails app (Airbnb clone) where a user can view a list of film-locations and make a booking.
 
