@@ -1,5 +1,7 @@
 # ShootMe ![language](https://img.shields.io/badge/language-Ruby-red.svg) ![language](https://img.shields.io/badge/language-HTML-orange.svg) ![language](https://img.shields.io/badge/language-Javascript-yellow.svg) ![language](https://img.shields.io/badge/language-CSS-blueviolet.svg)
 
+You can view our app here: automatic!
+[ShootMe](https://shoot-me-398.herokuapp.com/)
 
 Basic Ruby on Rails app (Airbnb clone) where a user can view a list of film-locations, add their location to rent and make a booking.
 
